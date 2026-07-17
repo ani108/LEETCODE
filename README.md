@@ -8,4 +8,12 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/ani108/LEETCODE/tree/master/2235-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
