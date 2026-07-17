@@ -6,5 +6,6 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/ani108/LEETCODE/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
