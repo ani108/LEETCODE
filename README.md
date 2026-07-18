@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ani108/LEETCODE/tree/master/2235-add-two-integers) |
 ## Array
@@ -14,6 +15,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ani108/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -28,6 +30,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
