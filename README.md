@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ani108/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -36,6 +38,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/ani108/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -60,4 +63,12 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/ani108/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ani108/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
