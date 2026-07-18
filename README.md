@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ani108/LEETCODE/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -14,6 +15,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ani108/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ani108/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ani108/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ani108/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -28,4 +30,12 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ani108/LEETCODE/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
