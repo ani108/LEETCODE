@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -33,6 +34,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ani108/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -45,6 +47,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ani108/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ani108/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
