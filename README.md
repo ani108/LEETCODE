@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ani108/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
