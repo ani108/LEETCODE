@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -43,6 +44,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -58,6 +60,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
