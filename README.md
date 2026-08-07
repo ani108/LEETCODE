@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -18,6 +19,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
