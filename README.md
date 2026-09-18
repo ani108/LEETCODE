@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
