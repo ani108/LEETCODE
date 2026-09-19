@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -79,6 +81,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ani108/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -92,6 +95,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -112,6 +116,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -126,6 +131,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
