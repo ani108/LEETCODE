@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -77,17 +78,20 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ani108/LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ani108/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/ani108/LEETCODE/tree/master/1854-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -113,6 +117,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +126,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
