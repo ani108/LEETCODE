@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -100,6 +102,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ani108/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
