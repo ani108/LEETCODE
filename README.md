@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ani108/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ani108/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ani108/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ani108/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -103,6 +105,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0217-contains-duplicate](https://github.com/ani108/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -119,6 +122,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani108/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani108/LEETCODE/tree/master/0027-remove-element) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +144,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
