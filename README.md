@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,6 +147,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ani108/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -158,4 +160,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
