@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ani108/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ani108/LEETCODE/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ani108/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -159,6 +161,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ani108/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
