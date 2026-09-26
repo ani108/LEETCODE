@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ani108/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ani108/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ani108/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -95,6 +96,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ani108/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ani108/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ani108/LEETCODE/tree/master/1512-number-of-good-pairs) |
