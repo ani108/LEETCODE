@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0169-majority-element](https://github.com/ani108/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ani108/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ani108/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ani108/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ani108/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani108/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani108/LEETCODE/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/ani108/LEETCODE/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
