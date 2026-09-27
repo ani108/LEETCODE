@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ani108/LEETCODE/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ani108/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ani108/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -115,11 +116,13 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ani108/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ani108/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -173,4 +176,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
