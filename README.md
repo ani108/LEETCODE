@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ani108/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ani108/LEETCODE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ani108/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/ani108/LEETCODE/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0035-search-insert-position](https://github.com/ani108/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ani108/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ani108/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ani108/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
