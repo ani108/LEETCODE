@@ -165,6 +165,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ani108/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ani108/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ani108/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ani108/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -186,4 +187,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ani108/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
