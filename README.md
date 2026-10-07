@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0009-palindrome-number](https://github.com/ani108/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ani108/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ani108/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ani108/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ani108/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ani108/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ani108/LEETCODE/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ani108/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ani108/LEETCODE/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,4 +194,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ani108/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ani108/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
