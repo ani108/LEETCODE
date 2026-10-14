@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0628-maximum-product-of-three-numbers](https://github.com/ani108/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ani108/LEETCODE/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/ani108/LEETCODE/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ani108/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ani108/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/ani108/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/ani108/LEETCODE/tree/master/1051-height-checker) |
@@ -171,6 +172,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | [0367-valid-perfect-square](https://github.com/ani108/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ani108/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ani108/LEETCODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ani108/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ani108/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ani108/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -200,4 +202,8 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ani108/LEETCODE/tree/master/0070-climbing-stairs) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ani108/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
